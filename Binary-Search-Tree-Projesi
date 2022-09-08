@@ -1,0 +1,21 @@
+Proje 3
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız
+
+root 6
+7 root 6 dan büyük sağa
+5 root 6 dan küçük sola
+1 root 6 dan küçük sola
+8 root 6 dan büyük sağa
+3 root 6 dan küçük sola
+0 root 6 dan küçük sola
+9 root 6 dan büyük sağa
+4 root 6 dan küçük sola
+2 root 6 dan küçük sola
+
+sağ taraf 7,8,9,
+sol taraf 5,1,3,0,4,2,
+
+sağ taraf 8 kök, 7 sola,9 sağa
+sol taraf 3 kök, 1,0,2 sola, 5,4 sağa
+
+sol taraf 1 kök, 0 sola 2 sağa
